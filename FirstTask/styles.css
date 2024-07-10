@@ -148,7 +148,7 @@
     margin-top:10px;
     margin-left:-20px;
     height: 350px;
-    width: 101.55%;
+    width: 1843px;
     overflow:auto;
     background: linear-gradient(86deg, rgb(223, 222, 255) 0%, rgb(255, 227, 227) 100%);
 }
@@ -196,7 +196,7 @@
     }
 }
 .whatsberabout {
-    max-width: 98%; 
+    max-width: 1020px; 
     font-size: 16px;
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
@@ -217,8 +217,8 @@
 }
 .whatsberaboutframe {
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.5%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 260px;
     background: #fff;
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
@@ -237,7 +237,6 @@
     }
 }
 .osobsberabout1 {
-    max-width: 98%; 
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -261,15 +260,14 @@
 }
 .osobsberaboutframe1 {
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 27%;
+    margin-left: 387px;
+    max-width: 490px;
     height: 200px;
     background: #fff;
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
     border-radius: 12px;
 }
 .osobsberabout2 {
-    max-width: 98%; 
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -294,15 +292,14 @@
 .osobsberaboutframe2 {
     margin-top: -200px;
     overflow:auto;
-    margin-left: 51.5%;
-    max-width: 27%;
+    margin-left: 935px;
+    max-width: 490px;
     height: 200px;
     background: #fff;
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
     border-radius: 12px;
 }
 .osobsberabout3 {
-    max-width: 98%; 
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -343,15 +340,14 @@
 .osobsberaboutframe3 {
     margin-top: 30px;
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.25%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 250px;
     background: #fff;
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
     border-radius: 12px;
 }
 .osobsber4 {
-    max-width: 98%; 
     font-size: 16px;
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
@@ -373,8 +369,8 @@
 .osobsberframe4 {
     margin-top: 30px;
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.5%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 270px;
     background-color: rgb(237, 242, 254);
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
@@ -393,7 +389,7 @@
     }
 }
 .premsber1 {
-    max-width: 98%; 
+    max-width: 1020px; 
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -432,7 +428,7 @@
     border-radius: 12px;
     height: 60px;
     width: 1000px;
-    margin-left: 2.2%;
+    margin-left: 24px;
     margin-top: 25px;
     margin-bottom: 30px;
     p {
@@ -441,15 +437,15 @@
 }
 .premsber1frame {
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.5%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 480px;
     background: #fff;
     border-radius: 12px;
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
 }
 .premsber2 {
-    max-width: 98%; 
+    max-width: 1020px;
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -489,15 +485,15 @@
 .premsber2frame {
     margin-top:35px;
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.5%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 170px;
     background: #fff;
     border-radius: 12px;
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
 }
 .premsber3 {
-    max-width: 98%; 
+    max-width: 960px;
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -520,8 +516,8 @@
 .premsber3frame {
     margin-top:35px;
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.5%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 130px;
     background: #fff;
     border-radius: 12px;
@@ -546,7 +542,7 @@
     }
 }
 .joinprem {
-    max-width: 98%; 
+    max-width: 1020px;
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -606,7 +602,7 @@
     border-radius: 12px;
     height: 85px;
     width: 980px;
-    margin-left: 2.9%;
+    margin-left: 30px;
     margin-top: 20px;
     margin-bottom: 30px;
     p {
@@ -616,8 +612,8 @@
 .joinpremframe {
     margin-top: 30px;
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.25%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 1218px;
     background: #fff;
     box-shadow: 0 1px 4px #e3ebfc, 0 6px 16px #e6ebf5cc;
@@ -641,7 +637,7 @@
         font:16px Lato, sans-serif, -apple-system;
         text-decoration: none;
     }
-    max-width: 98%; 
+    max-width: 1020px; 
     font-family: Lato, Arial, sans-serif, -apple-system;
     color: #0b1f33;
     line-height: 1.6;
@@ -680,8 +676,8 @@
 }
 .vznosframe {
     overflow:auto;
-    margin-left: 21.25%;
-    max-width: 57.5%;
+    margin-left: 387px;
+    max-width: 1037px;
     height: 780px;
     background: #fff;
     border-radius: 12px;
