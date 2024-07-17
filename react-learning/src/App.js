@@ -9,11 +9,9 @@ import Info from './pages/Info';
 function App() {
     return (
         <Fragment>
-            <Header />
             <Routes>
                 <Route path="/info" element={<Info />}/>
             </Routes>
-            <Footer />
         </Fragment>
     );
 }
