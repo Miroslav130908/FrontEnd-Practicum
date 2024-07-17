@@ -8,7 +8,7 @@ function App() {
     return (
         <Fragment>
             <Routes>
-                <Route path="/info" element={<Info />}/>
+                <Route path="/" element={<Info />}/>
             </Routes>
         </Fragment>
     );

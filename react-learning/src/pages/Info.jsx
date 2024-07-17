@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react';
+import classes from './../styles/Info.module.scss';
 
 
 const Info = () => {
@@ -7,7 +8,7 @@ const Info = () => {
             <head>
                 <title>ЛМШ</title>
             </head>
-            <body>
+            <body className={classes.container}>
                 <p>Абоба</p>
             </body>
         </Fragment>
