@@ -1,14 +1,15 @@
 import React, { Fragment } from 'react';
 
 
-const Home = () => {
-    useScrollToTop();
-
+const Info = () => {
     return (
         <Fragment>
             <head>
                 <title>ЛМШ</title>
             </head>
+            <body>
+                <p>Абоба</p>
+            </body>
         </Fragment>
     );
 };
