@@ -1,15 +1,10 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 7131f4b3b29e4c49924fa614f58a117440553813
 .container {
     background: lightblue;
     position: relative;
     z-index: 10;
     margin: 0 auto;
 }
-<<<<<<< HEAD
-=======
+
 .body {
     height: 300vh;
     width: 100vw;
@@ -20,4 +15,3 @@
 .infopage {
     font-size: 1 em;
 }
->>>>>>> 7131f4b3b29e4c49924fa614f58a117440553813

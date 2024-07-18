@@ -9,8 +9,9 @@ const Junior_clases = () => {
                 <title>ЛМШ</title>
             </head>
             <body classes="Junior">
-                <Header />
-                <div className={classes.back_ground}>
+                <Header />      
+                <div className={classes.back_ground}></div>
+                <div>
                     <p>fff</p>
                 </div>
                 <p>test</p>
