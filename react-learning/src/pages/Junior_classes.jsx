@@ -10,11 +10,9 @@ const Junior_clases = () => {
             </head>
             <body classes="Junior">
                 <Header />      
-                <div className={classes.back_ground}></div>
-                <div>
-                    <p>fff</p>
+                <div className={classes.back_ground}>
+                    Здесь мы собрали фоторгафии с мероприятий у 6-8 классов
                 </div>
-                <p>test</p>
             </body>
         </Fragment>
     );

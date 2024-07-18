@@ -2,6 +2,7 @@ body {
     .back_ground {
         height: 300vh;
         width: 100vw;
+        max-width: 100%;
         background: rgb(247, 246, 131);
         background: linear-gradient(rgb(253, 252, 152) 0%, rgba(184, 246, 119, 1) 100%);
     }
