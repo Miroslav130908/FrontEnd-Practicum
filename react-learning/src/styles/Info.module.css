@@ -1,6 +1,23 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 7131f4b3b29e4c49924fa614f58a117440553813
 .container {
     background: lightblue;
     position: relative;
     z-index: 10;
     margin: 0 auto;
 }
+<<<<<<< HEAD
+=======
+.body {
+    height: 300vh;
+    width: 100vw;
+    background: rgb(247,246,131);
+    background: linear-gradient(rgba(247,246,131,1) 0%, rgba(184,246,119,1) 100%);
+}
+
+.infopage {
+    font-size: 1 em;
+}
+>>>>>>> 7131f4b3b29e4c49924fa614f58a117440553813
