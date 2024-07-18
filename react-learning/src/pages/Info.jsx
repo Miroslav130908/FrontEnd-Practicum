@@ -10,8 +10,8 @@ const Info = () => {
             </head>
             <body className={classes.body}>
                 <Header/>
-                <div className={classes.infopage}>
-                    <p>Абоба</p>    
+                <div class="infopage" className={classes.infopage}>
+                    <p>Абоба</p>
                 </div>
             </body>
         </Fragment>
