@@ -1,0 +1,19 @@
+.head{
+    padding: 2%;
+    .right_buttons {
+        display: flex;
+        flex-direction: row;
+        .Info{
+            margin-left: 5%;
+            text-decoration: none;
+        }
+        .Juniors{
+            margin-left: 10%;
+            text-decoration: none;
+        }
+        .Seniors{
+            margin-left: 10%;
+            text-decoration: none;
+        }   
+    }
+}

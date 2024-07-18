@@ -1,0 +1,16 @@
+
+.container {
+    font-size:40px;
+}
+
+a {
+    font-size:40px;
+}
+
+a:hover {
+    font-size:40px;
+}
+
+.footer {
+    font-size:40px;
+}
