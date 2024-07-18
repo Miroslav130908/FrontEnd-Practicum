@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import classes from './../styles/Junior.module.scss';
+import classes from './../styles/Junior.module.css';
 import Header from './../components/Header/Header';
 
 const Junior_clases = () => {
