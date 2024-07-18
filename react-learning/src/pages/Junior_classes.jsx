@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-
+import classes from './../styles/Junior.module.scss';
 import Header from './../components/Header/Header';
 
 const Junior_clases = () => {
@@ -8,7 +8,7 @@ const Junior_clases = () => {
             <head>
                 <title>ЛМШ</title>
             </head>
-            <body>
+            <body classes="Junior">
                 <Header/>
                 <p>test</p>
             </body>
